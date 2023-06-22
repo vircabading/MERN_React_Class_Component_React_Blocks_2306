@@ -11,9 +11,7 @@ function App() {
       <HeaderComp />
       <div className="main-body-container">
         <NavigationComp />
-        <MainComp>
-
-        </MainComp>
+        <MainComp />
       </div>
     </div >
   );

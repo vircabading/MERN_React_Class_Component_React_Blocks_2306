@@ -1,10 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 
+import HeaderComp from './Components/HeaderComp';
+
 function App() {
   return (
     <div className="App">
-      <h1>React Blocks</h1>
+      <HeaderComp />
     </div>
   );
 }

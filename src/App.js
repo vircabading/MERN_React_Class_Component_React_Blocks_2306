@@ -3,12 +3,16 @@ import './App.css';
 
 import HeaderComp from './Components/HeaderComp';
 import NavigationComp from './Components/NavigationComp';
+import MainComp from './Components/MainComp';
 
 function App() {
   return (
     <div className="App">
       <HeaderComp />
       <NavigationComp />
+      <MainComp>
+        
+      </MainComp>
     </div>
   );
 }

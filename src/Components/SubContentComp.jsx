@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import styles from "../Modules/SubContentComp.module.css"
+import styles from "../Modules/MainComp.module.css";
 
 export class SubContentComp extends Component {
     constructor(props) {

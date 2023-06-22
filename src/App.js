@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 import HeaderComp from './Components/HeaderComp';
@@ -8,6 +7,7 @@ import MainComp from './Components/MainComp';
 function App() {
   return (
     <div className="App">
+      <br/>
       <HeaderComp />
       <div className="main-body-container">
         <NavigationComp />

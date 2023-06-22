@@ -8,3 +8,15 @@
 .columnsContainer {
     display: flex;
 }
+
+.subcontent {
+    background-color: #ffd966;
+    margin: 10px;
+    width: 33%;
+}
+
+.advert {
+    background-color: dodgerblue;
+    margin: 20px;
+    padding: 10px;
+}

@@ -9,11 +9,13 @@ function App() {
   return (
     <div className="App">
       <HeaderComp />
-      <NavigationComp />
-      <MainComp>
-        
-      </MainComp>
-    </div>
+      <div className="main-body-container">
+        <NavigationComp />
+        <MainComp>
+
+        </MainComp>
+      </div>
+    </div >
   );
 }
 
